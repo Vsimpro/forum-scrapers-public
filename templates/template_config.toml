@@ -1,0 +1,4 @@
+[forums.breach]
+baseurl = "https://example.com"
+scraper = "sites.forums.breach"
+object  = "Breachforums"

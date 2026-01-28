@@ -1,0 +1,9 @@
+[forums.breach]
+baseurl = ""
+scraper = "sites.forums.breach"
+object  = "Breachforums"
+
+[forums.breachsups]
+baseurl = ""
+scraper = "sites.forums.breachsups"
+object  = "Breachsups"
