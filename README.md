@@ -32,3 +32,5 @@ This projects aims for a modular framework to scrape cybercrime forums with the 
 - **Dynamic Configuration**: TOML-based configuration for easy setup
 
 Plug and play database: The system will automatically create database tables for forum tracking and stores scraped posts with metadata (title, content, timestamp, and source forum identification).
+
+![](img/graph.png)
